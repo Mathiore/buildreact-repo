@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4303b7a9.css",
+    "main.js": "/static/js/main.7677a3e4.js",
+    "static/media/teste.png": "/static/media/teste.e1b846b9c1c5454e7e8d.png",
+    "static/media/anime.gif": "/static/media/anime.d2f07baafdbcd0717de3.gif",
+    "static/media/matheus2022.pdf": "/static/media/matheus2022.009a9a88e9ceb91ffb72.pdf",
+    "index.html": "/index.html",
+    "main.4303b7a9.css.map": "/static/css/main.4303b7a9.css.map",
+    "main.7677a3e4.js.map": "/static/js/main.7677a3e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4303b7a9.css",
+    "static/js/main.7677a3e4.js"
+  ]
+}
